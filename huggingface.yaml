@@ -1,0 +1,6 @@
+title: Pinterest Downloader API
+emoji: 📌
+colorFrom: pink
+colorTo: purple
+sdk: docker
+app_port: 7860
